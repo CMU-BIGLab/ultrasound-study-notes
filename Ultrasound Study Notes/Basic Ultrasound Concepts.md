@@ -229,7 +229,7 @@
 
 ## Ultrasound Images:
 
-- The soft-tissue layers that can be visualized by ultrasound include the [epidermis](https://www.notion.so/Basic-Ultrasound-Concepts-ed8e2717543f453ab881057802b413d6#fe002323b3174991b1d78dcba8f2e439)/[dermis](https://www.notion.so/Basic-Ultrasound-Concepts-ed8e2717543f453ab881057802b413d6#32b2851651254df1a7d2c23bc0914e96), [subcutaneous layer](subcutaneous layer), [fascia](https://www.wikiwand.com/en/Fascia), muscle, and bone.
+- The soft-tissue layers that can be visualized by ultrasound include the epidermis/dermis, subcutaneous layer, fascia.
 
 ![Basic%20Ultrasound%20Concepts/Untitled%208.png](Basic%20Ultrasound%20Concepts/Untitled%208.png)
 

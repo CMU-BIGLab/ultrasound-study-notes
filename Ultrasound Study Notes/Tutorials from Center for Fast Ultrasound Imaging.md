@@ -8,7 +8,7 @@ Notes for the International Summer School on Advanced Ultrasound Imaging by Jør
 
 ## Three different kinds of images (P40)
 
-acquired by multi-element array transducers - linear, convex, and phased. [See here.](https://www.notion.so/Basic-Ultrasound-Concepts-ed8e2717543f453ab881057802b413d6#8d722590938e4a8da782180964cf3046)
+acquired by multi-element array transducers - linear, convex, and phased.
 
 Aperture
 
